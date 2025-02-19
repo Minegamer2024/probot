@@ -21,7 +21,7 @@ pip install probotlib
 ```
 # Note
 
-You should make credit command in probot in short c and the propbot is in English.
+You should make credit command in probot in short c and the probot is in English.
 
 # Code example
 
